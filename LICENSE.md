@@ -1,4 +1,4 @@
-# 
+# premium geckoterminal sniper bot | honeypot-detection + stop-loss is the best geckoterminal sniper bot, featuring honeypot-detection and stop-loss. Fast, smart, and optimized for
 
 
 
